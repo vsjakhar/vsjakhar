@@ -2,14 +2,20 @@
 
 ## Aloha, I'm Vijay Jakhar :wave: :man_technologist:
 
-<img src="./assets/banner.jpg" alt="DevOps Engineer">
+<img src="./assets/banner.jpg" alt="Full Stack Developer">
 
 <!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/parth1625/count.svg" />
 </p> -->
 
-I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set of skills, qualities and attributes that, I believe, make me a competent, supportive, professional and flexible DevOps Engineer. In addition to possessing solid technical knowledge capabilities, I am also someone who has excellent communication, collaboration, and decision-making skills.
+I have been a successful full stack developer and working for various individuals and companies all over the world.
+
+I am Pro at Django/Python as backend, Angular as frontend and AWS at the server side.
+
+Other than the above tech stack, I have also my expertise in Flutter React, Node, Azure, Docker, containers, etc. I also have the quality of a tutor, that's a great plus!
+
+I always maintain a long term relationship with my clients, productivity and confidentiality are the things that I believe is the foundation of any work collaboration. Whether you have lost your original developer, need any additional resources or need to build any application from scratch, I am your guy.
 
 ## Tech Stack:
 
@@ -67,7 +73,7 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1625&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/parth1625/parth1625">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vijay Jakhar GitHub Stats" />
 </a>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&theme=gotham" alt="parth1625" /> -->
 
