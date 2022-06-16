@@ -69,10 +69,10 @@ I always maintain a long term relationship with my clients, productivity and con
 
 ## Github Stats:
 
-<a href="https://github.com/parth1625/parth1625">
+<a href="https://github.com/vsjakhar/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1625&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/parth1625/parth1625">
+<a href="https://github.com/vsjakhar/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vijay Jakhar GitHub Stats" />
 </a>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&theme=gotham" alt="parth1625" /> -->
@@ -83,7 +83,7 @@ I always maintain a long term relationship with my clients, productivity and con
 - [LinkedIn](https://in.linkedin.com/in/vsjakhar) -->
 
 ## Get in touch :coffee::
-<p><a href="https://github.com/parth1625" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/parth-vijay-131bb9189" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://parth-24073.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/ParthVijay3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://github.com/vsjakhar/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://in.linkedin.com/in/vsjakhar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://parth-24073.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/vsjakhar07" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ## Ask Me:
 
