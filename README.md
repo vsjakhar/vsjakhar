@@ -2,7 +2,7 @@
 
 ## Aloha, I'm Vijay Jakhar :wave: :man_technologist:
 
-<img src="./assets/banner.jpg" alt="Full Stack Developer">
+<img src="./assets/vijay-Jakhar.png" alt="Full Stack Developer">
 
 <!-- <p align="center"> 
   Visitor count<br>
