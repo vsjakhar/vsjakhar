@@ -1,6 +1,6 @@
 # About me
 
-## Aloha, I'm Parth Vijay :wave: :man_technologist:
+## Aloha, I'm Vijay Jakhar :wave: :man_technologist:
 
 <img src="./assets/banner.jpg" alt="DevOps Engineer">
 
